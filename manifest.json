@@ -1,0 +1,22 @@
+{
+    "name": "Simple Task Reminder",
+    "short_name": "Task Reminder",
+    "description": "A simple task reminder PWA to help you manage daily tasks.",
+    "icons": [
+      {
+        "src": "/images/checklist.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/checklist.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ff0000"
+  }
+  
