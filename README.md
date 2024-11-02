@@ -1,7 +1,7 @@
 # Simple Task Reminder
 
 A simple task reminder PWA (Progressive Web App) to help you manage daily tasks with due dates.
-
+Made by Carly Ferland
 ## Features
 - Add, edit, and delete tasks with due dates.
 - Works offline using service worker caching.
